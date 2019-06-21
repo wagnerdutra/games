@@ -1,3 +1,3 @@
 # games
 
-Repository to games examples
+Repository for games examples
